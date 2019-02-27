@@ -1,0 +1,18 @@
+# philip-fingers.style
+# custom style similar to idle fingers in RStudio
+
+$DEFAULTCOLOUR=f1 f1 f1
+$BGCOLOUR=32 32 32
+$FONTSIZE=10
+
+$KW_CLASS(kwa)=c0 c0 80 bold
+$KW_CLASS(kwb)=70 70 c0 bold
+$KW_CLASS(kwc)=70 70 c0 bold
+$NUMBER=66 a9 cc
+$ESCAPECHAR=00 00 ff
+$STRING=a1 c3 45
+$STRING_DIRECTIVE=00 ff ff
+$COMMENT=c2 81 00 italic
+$DIRECTIVE=c2 81 00
+$LINE=80 80 80
+$SYMBOL=55 99 bb
