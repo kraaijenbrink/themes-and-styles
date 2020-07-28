@@ -61,7 +61,7 @@
   border-color: #FFFFFF
 }
 .ace_support.ace_function {
-  color: #B83426
+  color: #f7ea9c
 }
 .ace_variable.ace_parameter {
   font-style: italic
